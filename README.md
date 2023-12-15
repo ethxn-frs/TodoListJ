@@ -3,8 +3,8 @@
 ## Informations générales
 
 - Base de données utilisée : PostgreSQL
-- Script SQL : [untitled.sql](src/external/untitled.sql)
-- Collection Postman : [TodolistJ.postman_collection.json](src/external/TodolistJ.postman_collection.json)
+- Script SQL : [src/external](src/external/untitled.sql)
+- Collection Postman : [src/external](src/external/TodoListJ.postman_collection.json)
 - Dossiers principaux :
   - Main : [src/main](src/main)
   - Test : [src/test](src/test)
